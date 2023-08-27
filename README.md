@@ -1,45 +1,19 @@
-# Hey There!
+![Technobeast (3)](https://github.com/Technobeast7/Technobeast7/assets/125365643/5078d7f8-cf82-456a-b5b0-819cdf47fa51)
+<h3 align="center">Hey Dude, I'm <a href="https://www.youtube.com/channel/UCt-NG_fMfj5X6LFtlZnTs_Q" target="_blank" rel="noreferrer">Technobeast</a>.</h3>
+<h2 align="center">A 11-years old Tech Enthusiast.</h2> 
+I am also a student, got 1st in 6th, and i am better at programming also, I created many mega project, And Most of them are AI. Because AI is the Future.
 
-Technobeast is Here!
+## 🔭 I am Currently Working & Researching On
+- Artificial Intelligence
 
-## About me
-I am Technobeast, a 11-year-old boy. from 7th class who create programming projects. I am currently learning Artificial Intelligence
+## 🌱 I am Currently Learning
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning & Neural Networks
 
-## Currently Learned
-> Python (90%)
+## My Skills
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-> Java (30%)
-
-> HTML (60%)
-
-> CSS (60%)
-
-> JS (50%)
-
-> Game Devlopment (40%)
-
-> Web Development & Designing (70%)
-
-> Tailwind CSS (40%)
-
-## Currently Learning
-I am currently learning
-> Artificial Intelligence
-
-> Machine Learning
-
-> Deep Learning
-
-> Neural Network
-
-> Natural Language Processing
-
-> Ethical Hacking
-
-## Support
-
-If you like what i do in this age or want to support me maybe, consider me a tea/coffee please 🥺
-
-Your Support will help me 🥺
-
-<a href="https://www.buymeacoffee.com/technobeast" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="200" ></a>
+## Statistics
+![](https://github-readme-stats.vercel.app/api?username=Technobeast7&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Technobeast7&theme=transparent)
